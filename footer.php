@@ -1,6 +1,3 @@
-</main>
-<!-- !start #main-site -->
-
 <!-- start #footer -->
 <footer id="footer" class="bg-dark text-white py-5">
     <div class="container">
@@ -33,16 +30,16 @@
                 <h4 class="font-rubik font-size-20">Account</h4>
                 <div class="d-flex flex-column flex-wrap">
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">My Account</a>
-                    <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Order History</a>
-                    <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Wish List</a>
-                    <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Newslatters</a>
+                    <a href="orders.php" class="font-rale font-size-14 text-white-50 pb-1">Order History</a>
+                    <a href="cart.php" class="font-rale font-size-14 text-white-50 pb-1">Wish List</a>
+                    <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRsphHBRVfWjvDWNjKcFghmpWgVTKZcGScfvtkGzjBvWjWZzQXtmLTTSHbGKQMMSmphNwtq" target="_blank" class="font-rale font-size-14 text-white-50 pb-1">Newslatters</a>
                 </div>
             </div>
         </div>
     </div>
 </footer>
 <div class="copyright text-center bg-dark text-white py-2">
-    <p class="font-rale font-size-14">&copy; Copyrights 2020. Desing By <a href="#" class="color-second">Monark Mehta</a></p>
+    <p class="font-rale font-size-14">&copy; Copyrights 2020. Design By <a href="#" class="color-second">Monark Mehta</a></p>
 </div>
 <!-- !start #footer -->
 
